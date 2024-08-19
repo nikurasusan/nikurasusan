@@ -25,4 +25,6 @@ Currently I'm working on refining and testing the UI system, but some next steps
 I will hopefully also soon be able to share more images or videos of the current state of the editor.\
 Feel free to reach out to me about any relevant questions or projects 💬📫
 
+<img width="700" alt="Screenshot 2024-08-19 at 07 40 57" src="https://github.com/user-attachments/assets/b0c005a7-5ea7-4b72-8b10-09c429a4644c">
+
 Nicklas
