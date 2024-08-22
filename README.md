@@ -20,6 +20,7 @@ Project currently sits at around 10k LoC:\
 Currently I'm working on refining and testing the UI system, but some next steps for the editor will include:\
 🌱Adding clickable error messages when when the user builds their project\
 🌱Implementing more advanced search and refactoring tools\
+🌱Adding more sexy UI such as rounded rectangles and borders\
 🔭And many more...
 
 I will hopefully also soon be able to share more images or videos of the current state of the editor.\
