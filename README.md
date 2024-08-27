@@ -28,5 +28,4 @@ Feel free to reach out to me about any relevant questions or projects 💬📫
 
 Nicklas
 
-<img width="971" alt="Screenshot 2024-08-19 at 10 40 28" src="https://github.com/user-attachments/assets/19ad8087-a866-4c2c-a854-174591e65235">
-
+<img width="999" alt="Screenshot 2024-08-27 at 08 35 32" src="https://github.com/user-attachments/assets/c8a35c3d-f937-4a9a-848b-c1d9d6048479">
