@@ -6,19 +6,18 @@ I started concentrating fully on programming in the summer 2023 and has since be
 
 A little about my editor:
 
-Project currently sits at around 10K lines of code:\
-⚡Currently works for Mac only since I made the platform layer myself, but it should be fairly easy to port later since the platform layer is only one file (unity build) and quite limited in functionality (since I will be making most functionality myself)\
+⚡Project currently sits at around 10K lines of code and still runs single threaded\
+⚡Currently MAC-only as I made the platform (abstraction) layer myself, but it should be fairly easy to port later since the platform layer is only one file, and I am only using limited functionality from the OS\
 ⚡Can handle up to 100K lines of code for text files with the M2 chip (single core) without any issues (around 2K~ "regular" pages)\
-⚡Currently using 5~15% CPU during active use, but there are still many ways to bring that number eventually\
-⚡Supports basic syntax highlighting, and text is fully rebuilt/retokenized with almost every user input (works fine even at 100K lines of code)\
+⚡Supports basic syntax highlighting, and text line buffers are fully rebuilt/retokenized with with every text edit (works fine even at 100K lines of code)\
 ⚡Has a partly working immediate mode GUI system, which I am also building completely from scratch\
-⚡Simple search functionality\
+⚡Simple file search functionality\
 ⚡Safe atomic writing to disk to secure data integrity\
-⚡Simple config file loading, so the user can provide their own build system etc, keeping things simple\
+⚡Simple config file loading, so the user can provide their own build system etc, keeping things simple (xcode clang only at the moment)\
 ⚡Hopefully I will be able to open source the project or parts of the project sometime in the future, so others can benefit from it, but this will require more work on the API
 
 Currently I'm working on refining and testing the UI system, but some next steps for the editor will include:\
-🌱Adding clickable error messages when when the user builds their project\
+🌱Adding clickable error messages when when the user builds their project (almost done)\
 🌱Implementing more advanced search and refactoring tools\
 🌱Adding more sexy UI such as rounded rectangles and borders\
 🔭And many more...
@@ -28,4 +27,5 @@ Feel free to reach out to me about any relevant questions or projects 💬📫
 
 Nicklas
 
-<img width="999" alt="Screenshot 2024-08-27 at 08 35 32" src="https://github.com/user-attachments/assets/c8a35c3d-f937-4a9a-848b-c1d9d6048479">
+<img width="994" alt="Screenshot 2024-08-30 at 10 41 48" src="https://github.com/user-attachments/assets/9590084c-0992-4795-87d2-4b5fc7631add">
+
