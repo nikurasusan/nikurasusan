@@ -7,9 +7,9 @@ I started concentrating fully on programming in the summer 2023 and has since be
 A little about my editor:
 
 ⚡ Current size: 10K lines of code\
-⚡ Platform: MAC (with later extensibility to other platforms)
+⚡ Platform: MAC (with later extensibility to other platforms)\
 ⚡ Main features:\
-    🌱 Core text edit engine (edit, undo/redo) with support of up to 100,000 lines\
+>🌱 Core text edit engine (edit, undo/redo) with support of up to 100,000 lines\
     🌱 Basic syntax highlighting\
     🌱 OS layer for graphics, events, file I/O etc.\
     🌱 UI layer with auto layout engine (partly experimental)\
@@ -18,8 +18,8 @@ A little about my editor:
     🌱 Simple build system to build a project, with error window to see compile errors\
     🌱 Simple single file search and replace system (will be extended hopefully soon)\
     🌱 General multithreading support with callbacks\
-    🌱 App goes to sleep when inactive, wakes up by OS or thread events (event-driven)\ 
-    🔭 And many more...\
+    🌱 App goes to sleep when inactive, wakes up by OS or thread events (event-driven)\
+    🔭 And many more...
 
 Hopefully I will be able to open source the project or parts of the project sometime in the future, so others can benefit from it, but this will require more work on the API 🔭
 
@@ -27,5 +27,5 @@ I will hopefully also soon be able to share more images or videos of the current
 
 Nicklas
 
-<img width="994" alt="Screenshot 2024-08-30 at 10 41 48" src="https://github.com/user-attachments/assets/9590084c-0992-4795-87d2-4b5fc7631add">
+<img width="949" alt="Screenshot 2024-10-09 at 19 20 36" src="https://github.com/user-attachments/assets/44884438-a814-4c3a-b755-4c6570f43d9c">
 
