@@ -8,7 +8,7 @@ A little about my editor:
 
 ⚡ Current size: 10K lines of code\
 ⚡ Platform: MAC (with later extensibility to other platforms)\
-⚡ Main features:\
+⚡ Main features:
 >🌱 Core text edit engine (edit, undo/redo) with support of up to 100,000 lines\
     🌱 Basic syntax highlighting\
     🌱 OS layer for graphics, events, file I/O etc.\
@@ -27,5 +27,6 @@ I will hopefully also soon be able to share more images or videos of the current
 
 Nicklas
 
-<img width="949" alt="Screenshot 2024-10-09 at 19 20 36" src="https://github.com/user-attachments/assets/44884438-a814-4c3a-b755-4c6570f43d9c">
+<img width="1188" alt="Screenshot 2025-01-17 at 16 39 47" src="https://github.com/user-attachments/assets/51bc5517-455b-4850-ba0e-0aee69e56f10" />
+
 
