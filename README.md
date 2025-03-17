@@ -11,14 +11,14 @@ A little about my editor:
 ⚡ Main features:
 >🌱 Core text edit engine (edit, undo/redo) with support of up to 100,000 lines\
     🌱 Basic syntax highlighting\
-    🌱 OS layer for graphics, events, file I/O etc.\
-    🌱 UI layer with auto layout engine (partly experimental)\
-    🌱 Core app layer that goes to sleep and wait for events from the OS or other threads\
-    🌱 Config files for custom build commands etc.\
-    🌱 Simple build system to build a project, with error window to see compile errors\
-    🌱 Simple single file search and replace system (will be extended hopefully soon)\
-    🌱 General multithreading support with callbacks\
+    🌱 Custom platform layer for graphics, events, file I/O etc.\
+    🌱 UI layer with auto layout engine (still experimental)\
     🌱 App goes to sleep when inactive, wakes up by OS or thread events (event-driven)\
+    🌱 Custom config files for build commands etc.\
+    🌱 Simple build system to build a project, with error window to see compile errors\
+    🌱 Single file search and replace and folder wide search (using grep)\
+    🌱 Built-in project-scope file opener\
+    🌱 General multithreading support with callbacks\
     🔭 And many more...
 
 Hopefully I will be able to open source the project or parts of the project sometime in the future, so others can benefit from it, but this will require more work on the API 🔭
